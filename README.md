@@ -1,2 +1,2 @@
 # Data-Lokasi-SPBU-Pasti-Pas
-Data Lokasi SPBU Pasti Pas di Indonesia. Nama dan alamat dalam format JSON.
+Data 972 Lokasi SPBU Pasti Pas di Indonesia. Nama dan alamat dalam format JSON.
