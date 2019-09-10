@@ -1,4 +1,4 @@
-[
+var data = [
     {
         "nama": "SPBU 11.2011.02",
         "alamat": "Jl. Putri Merak Jingga No. 1 Medan, Sumatera Utara, Indonesia"
@@ -3891,4 +3891,4 @@
         "nama": "SPBU 84.996.29",
         "alamat": "Jl. Ahmad Yani No. 44 Rimba Jaya Jayapura, Papua, Indonesia"
     }
-]
+];
